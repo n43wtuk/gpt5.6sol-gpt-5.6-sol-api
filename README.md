@@ -2,7 +2,7 @@
 
 > **input $3.2; cached_input $0.32; cache_write $4** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-73c322)** · **[Get an API key](https://go.apimart.ai/k-979305)**
 
 Everything here refers to **gpt-5.6-sol** — also written **gpt5.6sol** or **gpt 5.6 sol**.
 
