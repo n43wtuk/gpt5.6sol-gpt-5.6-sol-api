@@ -1,0 +1,14 @@
+{
+  "repo": "gpt5.6sol-gpt-5.6-sol-api",
+  "model": "gpt-5.6-sol",
+  "display": "GPT-5.6 Sol",
+  "variant": "llm",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_million_tokens",
+  "tiers": {
+    "input": 3.2,
+    "cached_input": 0.32,
+    "cache_write": 4
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
